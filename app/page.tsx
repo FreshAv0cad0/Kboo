@@ -443,24 +443,24 @@ export default function CapybaraSlideshow() {
             <div className="text-2xl mb-2 flex justify-center">
               <img src={getRandomCapybara() || "/placeholder.svg"} alt="Capybara" className="w-8 h-8" />
             </div>
-            <h3 className="font-bold text-pink-700 text-xs mb-2">Capybara Approved</h3>
-            <p className="text-xs text-pink-600">Maximum chill content</p>
+            <h3 className="font-bold text-pink-700 text-xs mb-2">Who's that wonderful girl?</h3>
+            <p className="text-xs text-pink-600">Could she be any cuter?</p>
           </Card>
 
           <Card className="p-6 text-center bg-pink-50/60 backdrop-blur-sm border-2 border-pink-200 rounded-2xl">
             <div className="text-2xl mb-2 flex justify-center">
               <img src={getRandomCapybara() || "/placeholder.svg"} alt="Capybara" className="w-8 h-8" />
             </div>
-            <h3 className="font-bold text-pink-700 text-xs mb-2">Smart Scaling</h3>
-            <p className="text-xs text-pink-600">Fit or fill modes</p>
+            <h3 className="font-bold text-pink-700 text-xs mb-2">PPT Monday</h3>
+            <p className="text-xs text-pink-600">LK?</p>
           </Card>
 
           <Card className="p-6 text-center bg-pink-50/60 backdrop-blur-sm border-2 border-pink-200 rounded-2xl">
             <div className="text-2xl mb-2 flex justify-center">
               <img src={getRandomCapybara() || "/placeholder.svg"} alt="Capybara" className="w-8 h-8" />
             </div>
-            <h3 className="font-bold text-pink-700 text-xs mb-2">Max Love</h3>
-            <p className="text-xs text-pink-600">Who's that wonderful girl</p>
+            <h3 className="font-bold text-pink-700 text-xs mb-2">Wouuuu</h3>
+            <p className="text-xs text-pink-600">Yeamm</p>
           </Card>
         </div>
 
